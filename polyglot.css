@@ -4,7 +4,7 @@
 }
 .polyglot-lang-select select {
     height: 24px;
-    background: transparent;
+    background: rgba(255, 255, 245, 0.8);
 }
 
 span.polyglot-journal {
