@@ -1,9 +1,9 @@
 {
     "name": "polyglot",
     "title": "Polyglot",
-    "description": "Talk to others using a language you can speak and scrambles text you can't understand, in several fantasy scripts.",
+    "description": "(這個MOD有經過個人修改、取消Hightlight文字。若是原版有更新需再手動fork再次修改。",
     "version": "1.4.1",
-    "author": ["KaKaRoTo", "elizeuangelo"],
+    "author": ["無雙"],
     "scripts": ["./polyglot.js"],
     "styles": ["./polyglot.css","./fonts.css"],
     "packs": [],
